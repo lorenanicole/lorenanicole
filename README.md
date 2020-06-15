@@ -10,13 +10,9 @@
 
 ## Who am I?
 
-My <a href="lorenamesa.com/about">bio</a> covers a bit of what I do.
+**One part activist, one part Star Wars fanatic, and another part Trekkie, I abide by the motto to "live long, Python :snake: & prosper :vulcan_salute:".**
 
-> Political scientist turned coder, Lorena Mesa is a data engineer on GitHub's dependency graph team, Director and Vice-Chair, Elect on the Python Software Foundation, JOSS Editor, and PyLadies Chicago co-organizer. 
-
-I think this sums me up well:
-
-> One part activist, one part Star Wars fanatic, and another part Trekkie, I abide by the motto to "live long, Python :snake: & prosper :vulcan_salute:".
+Want more info? You can stumble on over to my <a href="lorenamesa.com/about">bio</a> for more information.
 
 ## What's on my mind?
 
