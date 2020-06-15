@@ -6,3 +6,6 @@ Lorena's time at Obama for America and her subsequent graduate research required
 
 One part activist, one part Star Wars fanatic, and another part Trekkie, Lorena abides by the motto to "live long, Python :snake: & prosper :vulcan_salute: ".
 
+## Chat with @lorenanicole
+
+I'm pretty active on social media. Or else, you can find time on my Calendly :point_right: [here](https://calendly.com/lorenamesa/25-min-chat?).
