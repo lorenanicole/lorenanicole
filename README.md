@@ -16,10 +16,6 @@ Want more info? You can stumble on over to my <a href="lorenamesa.com/about">bio
 
 ## What's on my mind?
 
-As technologists, it is our duty to stay informed. Educate ourselves on bias in tech as well as how tech impacts issues of equity. To educate myself, I've kicked started a [reading list on bias and equity in tech](http://biasin.tech). Have suggestions? Add to the list today :point_right: [here](https://github.com/lorenanicole/tech-equity-reading/).
-
-<div style="display: center"><img src="http://biasin.tech/img/logo.png" data-canonical-src="http://biasin.tech/img/logo.png" width="250" style="display: block"/></div>
+As technologists, it is our duty to stay informed. Educate ourselves on bias in tech as well as how tech impacts issues of equity. To educate myself, I've kicked started a reading list on bias and equity in tech. Have suggestions? Add to the list today :point_right: [here](https://github.com/lorenanicole/tech-equity-reading/).
 
 *Currently reading: [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.goodreads.com/book/show/42527493-race-after-technology)*
-
-<div style="display: center"><img src="http://biasin.tech/img/race-after-technology.png" data-canonical-src="http://biasin.tech/img/race-after-technology.png" width="250" style="display: block"/></div>
